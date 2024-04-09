@@ -1,0 +1,14 @@
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\bin\Debug\net6.0\btvnbuoi6.exe
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\bin\Debug\net6.0\btvnbuoi6.deps.json
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\bin\Debug\net6.0\btvnbuoi6.runtimeconfig.json
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\bin\Debug\net6.0\btvnbuoi6.dll
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\bin\Debug\net6.0\btvnbuoi6.pdb
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\btvnbuoi6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\btvnbuoi6.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\btvnbuoi6.AssemblyInfo.cs
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\btvnbuoi6.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\btvnbuoi6.dll
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\refint\btvnbuoi6.dll
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\btvnbuoi6.pdb
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\btvnbuoi6.genruntimeconfig.cache
+D:\ASP\Asp.net\btvnbuoi6\btvnbuoi6\obj\Debug\net6.0\ref\btvnbuoi6.dll
